@@ -22,7 +22,12 @@ Currently, I'm building **Web3 projects, trading tools, and decentralized applic
 ### 📫 Connect with Me  
 - **Discord:** `nawa.dev`  
 - **Telegram:** [@nawadotdev](https://t.me/nawadotdev)  
-- **Twitter/X:** [@nawadotdev](https://twitter.com/nawadotdev)  
+- **Twitter/X:** [@nawadotdev](https://twitter.com/nawadotdev)
+
+---
+
+### 📖 Open Source Projects
+🔹 **Twitter Card** — An endpoint generates dynamic Twitter previews with auto-redirect on click
 
 ---
 
